@@ -1,0 +1,4 @@
+GOOS=windows GOARCH=amd64 go build -o windows_auth.exe main.go
+GOOS=darwin GOARCH=arm64 go build -o mac_arm_auth main.go
+GOOS=darwin GOARCH=amd64 go build -o mac_intel_auth main.go
+GOOS=linux GOARCH=amd64 go build -o linux_auth main.go
