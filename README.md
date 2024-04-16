@@ -22,7 +22,8 @@ python版本 https://github.com/musiclover789/luna_python 也是基于lunahttp�
 
 2、您不熟悉golang
 
-​		您可以直接调用https://github.com/musiclover789/luna_http/tree/main/main包下面的可执行程序；
+​		您可以直接调用https://github.com/musiclover789/luna_http/tree/main/main
+  包下面的可执行程序；
 
 其中包括了、windows的exe、Mac inter芯片、arm芯片、linux等版本。
 
