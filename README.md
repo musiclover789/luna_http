@@ -18,7 +18,8 @@ python版本 https://github.com/musiclover789/luna_python 也是基于lunahttp�
 
 1、熟悉golang。
 
-​		如果您熟悉golang、建议您直接使用https://github.com/musiclover789/luna版本即可。
+​		如果您熟悉golang、建议您直接使用https://github.com/musiclover789/luna
+    版本即可。
 
 2、您不熟悉golang
 
