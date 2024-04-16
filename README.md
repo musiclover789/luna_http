@@ -152,22 +152,6 @@ chrome_id=your_chrome_id //你需要关闭的chrome id
 
 
 
-```
-接口：close_browser
-方式:post
-请求url示例
-http://127.0.0.1:9876/close_browser
-作用：关闭指定浏览器实例
-传入参数格式:application/x-www-form-urlencoded
-form-data 示例:
-chrome_id=your_chrome_id //你需要关闭的chrome id
-
-返回示例:
-{
-  "message": "very nice",
-  "status": 200
-}
-```
 
 
 
