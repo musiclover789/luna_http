@@ -4,3 +4,4 @@ GOOS=darwin GOARCH=amd64 go build -o mac_intel_auth main.go
 GOOS=linux GOARCH=amd64 go build -o linux_auth main.go
 
 
+back
