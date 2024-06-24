@@ -4,7 +4,7 @@ lunahttp|一个抗指纹浏览器自动化测试框架|爬虫框架|anti-fingerp
 
 此项目为https://github.com/musiclover789/luna   golang项目的http 方式封装。
 
-python版本 https://github.com/musiclover789/luna_python 也是基于lunahttp的再次封装。
+python版本 https://github.com/musiclover789/luna_python 
 
 
 
